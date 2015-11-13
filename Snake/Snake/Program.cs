@@ -61,8 +61,8 @@ namespace Snake
 			WriteText( "============================", xOffset, yOffset++ );
 			WriteText( "И Г Р А    О К О Н Ч Е Н А", xOffset + 1, yOffset++ );
 			yOffset++;
-			WriteText( "Автор: Евгений Картавец", xOffset + 2, yOffset++ );
-			WriteText( "Специально для GeekBrains", xOffset + 1, yOffset++ );
+			WriteText( "Автор: Миронченко Артем", xOffset + 2, yOffset++ );
+			WriteText( "Взято из GeekBrains", xOffset + 1, yOffset++ );
 			WriteText( "============================", xOffset, yOffset++ );
 		}
 
